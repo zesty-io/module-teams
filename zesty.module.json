@@ -1,0 +1,5 @@
+{
+  "name": "module_team",
+  "schema": "schema.yaml",
+  "head-tags": "head-tags.yaml"
+}

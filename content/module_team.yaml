@@ -1,0 +1,20 @@
+
+  - id: "222e-a1ad-da90"
+    web:
+      metaDescription: ""
+      metaTitle: "Team"
+      metaLinkText: "Team"
+      metaKeywords: null
+      pathPart: "team"
+      path: "/team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      hero_description: "<em>Zesty.io</em> is equiped with experts and talented people that are working together in building extra-ordinary CMS framework."
+      hero_header_text: "Meet The Team <br> Our Professionals</h3>"
