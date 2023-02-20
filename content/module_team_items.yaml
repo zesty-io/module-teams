@@ -1,0 +1,91 @@
+
+  - id: "ec90-58b8-cce5"
+    web:
+      metaDescription: ""
+      metaTitle: "Joselito Federico Macaroni Salsa Lani "
+      metaLinkText: "Joselito Federico Macaroni Salsa Lani "
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 111
+      listed: true
+    data:
+      career_title: "Data Analyst"
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      image: "https://ctfvmjj1.media.zestyio.com/person-1.jpg"
+      name: "Joselito Federico Salsa Lani "
+      social_1: "https://www.linkedin.com"
+      social_2: "https://www.whatsapp.com"
+      social_3: "https://www.gmail.com"
+      social_4: "https://www.discord.com"
+      social_icon_1: "bi-linkedin"
+      social_icon_2: "bi-whatsapp"
+      social_icon_3: "bi-envelope"
+      social_icon_4: "bi-discord"
+      team_sort: 3
+  - id: "39ec-35b9-f5f0"
+    web:
+      metaDescription: ""
+      metaTitle: "Jane Doe"
+      metaLinkText: "Jane Doe"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 109
+      listed: true
+    data:
+      career_title: "Google Ads Expert"
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      image: "https://ctfvmjj1.media.zestyio.com/person-4.jpg"
+      name: "Jane Doe"
+      social_1: "https://www.instagram.com"
+      social_2: "https://www.facebook.com"
+      social_3: "https://www.twitter.com"
+      social_4: "https://www.linkedin.com"
+      social_icon_1: "bi-instagram"
+      social_icon_2: "bi-facebook"
+      social_icon_3: "bi-twitter"
+      social_icon_4: "bi-linkedin"
+      team_sort: null
+  - id: "c92a-81e2-2076"
+    web:
+      metaDescription: ""
+      metaTitle: "Matt Monrow"
+      metaLinkText: "Matt Monrow"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 110
+      listed: true
+    data:
+      career_title: "Web Designer"
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+      image: "https://ctfvmjj1.media.zestyio.com/person-3.jpg"
+      name: "Matt Monrow"
+      social_1: "https://www.github.com"
+      social_2: "https://www.google.com"
+      social_3: "https://www.linkedin.com"
+      social_4: "https://www.slack.com"
+      social_icon_1: "bi-github"
+      social_icon_2: "bi-google"
+      social_icon_3: "bi-linkedin"
+      social_icon_4: "bi-slack"
+      team_sort: 1

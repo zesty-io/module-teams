@@ -1,0 +1,21 @@
+
+  - id: "3042-f4dd-117e"
+    web:
+      metaDescription: ""
+      metaTitle: "Module Team"
+      metaLinkText: "Module Team"
+      metaKeywords: null
+      pathPart: "module-team"
+      path: "/module-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      hero_description: "<em>Zesty.io</em> is equiped with experts and talented people that are working together in building extra-ordinary CMS framework."
+      hero_header_text: "Meet The Team Our Professionals"
+      hero_image_background: "https://ctfvmjj1.media.zestyio.com/team-bg.jpg"
