@@ -1,5 +1,8 @@
 {
   "name": "module-team-test",
   "schema": "schema.yaml",
-  "head-tags": "head-tags.yaml"
+  "head-tags": "head-tags.yaml",
+  "modules": [
+  "https://github.com/zesty-io/module-bootstrap5"
+  ]
 }
